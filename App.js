@@ -5,25 +5,6 @@ import { NavigationContainer } from '@react-navigation/native'
 import OnBoard from './screens/OnBoardingScreen'
 import Menu from './screens/Home'
 import AsyncStorage from '@react-native-async-storage/async-storage'
-// import Beranda from "./components/Home"
-// import SelamatDatang from "./components/Welcome"
-
-// const Stack = createStackNavigator()
-
-// const root = ( { navigation } ) => {
-//     return (
-//     <View style={Styles.body}>
-//     <Text style={Styles.text}> Bismillah! Lagi dalam Pengerjaan!</Text>
-//     <br />
-//     <ActivityIndicator color={"white"} />
-//     <br />
-//     <Button
-//     title='Buka'
-//     color="#ff7f50"
-//     onPress={navigation.navigate('Beranda')}
-//     />
-//     </View>
-// )}
 
 const AppStack = createStackNavigator();
 
@@ -59,20 +40,5 @@ function App() {
     )
   }
 }
-
-// const Styles = StyleSheet.create({
-//   body: {
-//     height: '100%',
-//     width: '100%',
-//     backgroundColor: '#ff6348',
-//     justifyContent: 'center',
-//     alignItems: 'center',
-//     color: '#fff',
-//     fontSize: '20px'
-//   },
-//   text: {
-//     color: '#fff'
-//   }  
-// })
 
 export default App;
