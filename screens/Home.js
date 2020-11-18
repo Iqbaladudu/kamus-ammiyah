@@ -1,10 +1,14 @@
-import { Item } from 'native-base';
-import React, { useState, useEffect } from 'react'
-import { StyleSheet, Text, View, TextInput, Button} from 'react-native';
+import { Kosakata,
+        Muhadatsah, 
+        Uslub, 
+        Kaidah, 
+        Bookmark, 
+        AboutUs } from '../components/HomeComp'
+import { StyleSheet} from 'react-native';
 
 
 /* 
-Components:
+Components Home.js :
 1 - Kosakata
 2 - Muhadatsah
 3 - Kaidah
@@ -13,10 +17,8 @@ Components:
 6 - About
 */
 
-function Menu () {
-    return (
-        
-    )
+function Beranda () {
+    
 }
 
 const style = StyleSheet.create({

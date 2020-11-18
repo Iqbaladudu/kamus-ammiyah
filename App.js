@@ -1,10 +1,8 @@
-import React, { useEffect } from "react"
-import { View, StyleSheet, TextInput} from "react-native"
+import React from "react"
 import { createStackNavigator } from '@react-navigation/stack'
 import { NavigationContainer } from '@react-navigation/native'
 import OnBoard from './screens/OnBoardingScreen'
-import Menu from './screens/Home'
-import AsyncStorage from '@react-native-async-storage/async-storage'
+import Beranda from './screens/Home'
 
 const AppStack = createStackNavigator();
 
@@ -30,7 +28,7 @@ function App() {
       <AppStack.Navigator
       headerMode="none">
         <AppStack.Screen name='OnBoarding' component={OnBoard} />
-        <AppStack.Screen name='Beranda' component={Menu} />
+        <AppStack.Screen name='Beranda' component={Beranda} />
       </AppStack.Navigator>
     </NavigationContainer>
     );
