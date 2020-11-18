@@ -1,0 +1,291 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /home/iqbaladudu/Documents/projects/kamus-ammiyah
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git check-ignore -v -z --stdin
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :screens/App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/App.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git check-ignore -v -z --stdin
+> git show --textconv :Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/Home.js
+> git check-ignore -v -z --stdin
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/Home.js
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/package-lock.json
+> git cat-file -s c888c28cffe2fc811161460372defee385fbab02
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git show --textconv :package-lock.json
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/package-lock.json
+> git cat-file -s c888c28cffe2fc811161460372defee385fbab02
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/Home.js
+> git check-ignore -v -z --stdin
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/Home.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/Home.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/Home.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/Home.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/Home.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/Home.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git check-ignore -v -z --stdin
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :components/HomeScreen/FormOutput.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/FormOutput.js
+> git check-ignore -v -z --stdin
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/OnBoardingScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/OnBoardingScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :components/HomeScreen/Form.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/components/HomeScreen/Form.js
+> git show --textconv :screens/HomeScreen.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/HomeScreen.js
+> git show --textconv :App.js
+> git ls-files --stage -- /home/iqbaladudu/Documents/projects/kamus-ammiyah/App.js
+> git cat-file -s 181f3cee3bafb30959cbd27842deebe42f818240

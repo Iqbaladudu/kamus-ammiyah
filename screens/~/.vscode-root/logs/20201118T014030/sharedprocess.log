@@ -1,0 +1,9 @@
+[2020-11-18 01:40:36.133] [sharedprocess] [info] main {"machineId":"ac97f08e7d35cf98a4be9be14829f4f2d99e5a078ce3dcdb6af4c4639f7e84bf","windowId":2}
+[2020-11-18 01:40:36.240] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/iqbaladudu/Documents/projects/kamus-ammiyah/screens/~/.vscode-root/User/snippets'
+[2020-11-18 01:40:44.821] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-11-18 01:40:53.349] [sharedprocess] [info] Downloaded extension: ms-python.python undefined
+[2020-11-18 01:40:55.599] [sharedprocess] [info] Extracted extension to /home/iqbaladudu/.vscode/extensions/.ms-python.python-2020.11.367453362: ms-python.python
+[2020-11-18 01:40:55.599] [sharedprocess] [info] Renamed to /home/iqbaladudu/.vscode/extensions/ms-python.python-2020.11.367453362
+[2020-11-18 01:40:55.602] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-11-18 01:40:55.840] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-11-18 01:41:16.150] [sharedprocess] [info] Starting to clean up unused language packs.
